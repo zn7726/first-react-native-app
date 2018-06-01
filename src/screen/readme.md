@@ -1,0 +1,1 @@
+this folder includes screens that are loaded/navigated by the react-native-navigation module
